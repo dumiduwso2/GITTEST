@@ -1,0 +1,2 @@
+item1 -folder1
+item2 - folder2
